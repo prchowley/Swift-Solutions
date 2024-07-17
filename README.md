@@ -12,6 +12,7 @@ I will update this when ever I will get some time.
 - [4. Median Of Two Sorted Arrays](./Leetcode/4_MedianOfTwoSortedArrays.swift)
 - [7. Reverse Integer](./Leetcode/7_ReverseInteger.swift)
 - [9. Palindrome Number](./Leetcode/9_PalindromeNumber.swift)
+- [13. Roman To Integer](./Leetcode/13_RomanToInteger.swift)
 <!-- TOC end -->
 
 ## How to Use
