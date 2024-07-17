@@ -5,7 +5,7 @@ func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
         if let hashN = hash[n] {
             return [index, hashN]
         }
-            hash[target - n] = index
+        hash[target - n] = index
     }
     return []
 }
