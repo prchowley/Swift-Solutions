@@ -16,6 +16,9 @@ I will update this when ever I will get some time.
 - [14. Longest Common Prefix](./Leetcode/14_LongestCommonPrefix.swift)
 - [20. Valid Parentheses](./Leetcode/20_ValidParentheses.swift)
 - [21. Merge Two Sorted Lists](./Leetcode/21_MergeTwoSortedLists.swift)
+- [26. Remove Duplicates From Sorted Array](./Leetcode/26_RemoveDuplicatesFromSortedArray.swift)
+- [27. Remove Element](./Leetcode/27_RemoveElement.swift)
+- [28. Find The Index Of The First Occurrence In AString](./Leetcode/28_FindTheIndexOfTheFirstOccurrenceInAString.swift)
 <!-- TOC end -->
 
 ## How to Use
