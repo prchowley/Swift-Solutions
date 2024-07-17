@@ -1,6 +1,12 @@
-
-### Python Script to Update README
 import os
+import re
+
+def camel_case_to_spaces(name):
+    """
+    Convert camel case string to a string with spaces between words.
+    Example: "CamelCaseString" -> "Camel Case String"
+    """
+    return re.sub('([a-z])([A-Z])', r'\1 \2', name)
 
 def update_readme(readme_path='README.md', solutions_dir='Leetcode'):
     # Get list of solution files
@@ -13,8 +19,9 @@ def update_readme(readme_path='README.md', solutions_dir='Leetcode'):
     toc = []
     for file in solution_files:
         problem_number, problem_title = file.split('_', 1)
-        problem_title = problem_title.replace('.swift', '').replace('_', ' ')
-        toc.append(f'- [{problem_number}. {problem_title}](Leetcode/{file})')
+        problem_title = problem_title.replace('.swift', '')
+        problem_title_with_spaces = camel_case_to_spaces(problem_title)
+        toc.append(f'- [{problem_number}. {problem_title_with_spaces}](./{solutions_dir}/{file})')
     
     toc_str = '\n'.join(toc)
 

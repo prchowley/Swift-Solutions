@@ -7,11 +7,11 @@ I will update this when ever I will get some time.
 ## Table of Contents
 
 <!-- TOC start -->
-- [1. TwoSum](Leetcode/1_TwoSum.swift)
-- [2. AddTwoNumbers](Leetcode/2_AddTwoNumbers.swift)
-- [4. MedianOfTwoSortedArrays](Leetcode/4_MedianOfTwoSortedArrays.swift)
-- [7. ReverseInteger](Leetcode/7_ReverseInteger.swift)
-- [9. PalindromeNumber](Leetcode/9_PalindromeNumber.swift)
+- [1. Two Sum](./Leetcode/1_TwoSum.swift)
+- [2. Add Two Numbers](./Leetcode/2_AddTwoNumbers.swift)
+- [4. Median Of Two Sorted Arrays](./Leetcode/4_MedianOfTwoSortedArrays.swift)
+- [7. Reverse Integer](./Leetcode/7_ReverseInteger.swift)
+- [9. Palindrome Number](./Leetcode/9_PalindromeNumber.swift)
 <!-- TOC end -->
 
 ## How to Use
