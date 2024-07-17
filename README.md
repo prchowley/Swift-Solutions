@@ -6,6 +6,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 
 <!-- TOC start -->
 - [1. TwoSum](Leetcode/1_TwoSum.swift)
+- [2. AddTwoNumbers](Leetcode/2_AddTwoNumbers.swift)
 <!-- TOC end -->
 
 ## How to Use
