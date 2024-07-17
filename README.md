@@ -18,7 +18,7 @@ I will update this when ever I will get some time.
 - [21. Merge Two Sorted Lists](./Leetcode/21_MergeTwoSortedLists.swift)
 - [26. Remove Duplicates From Sorted Array](./Leetcode/26_RemoveDuplicatesFromSortedArray.swift)
 - [27. Remove Element](./Leetcode/27_RemoveElement.swift)
-- [28. Find The Index Of The First Occurrence In AString](./Leetcode/28_FindTheIndexOfTheFirstOccurrenceInAString.swift)
+- [28. Find The Index Of The First Occurrence In A String](./Leetcode/28_FindTheIndexOfTheFirstOccurrenceInAString.swift)
 <!-- TOC end -->
 
 ## How to Use
