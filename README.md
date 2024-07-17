@@ -13,6 +13,7 @@ I will update this when ever I will get some time.
 - [7. Reverse Integer](./Leetcode/7_ReverseInteger.swift)
 - [9. Palindrome Number](./Leetcode/9_PalindromeNumber.swift)
 - [13. Roman To Integer](./Leetcode/13_RomanToInteger.swift)
+- [14. Longest Common Prefix](./Leetcode/14_LongestCommonPrefix.swift)
 <!-- TOC end -->
 
 ## How to Use
