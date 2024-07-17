@@ -14,6 +14,7 @@ I will update this when ever I will get some time.
 - [9. Palindrome Number](./Leetcode/9_PalindromeNumber.swift)
 - [13. Roman To Integer](./Leetcode/13_RomanToInteger.swift)
 - [14. Longest Common Prefix](./Leetcode/14_LongestCommonPrefix.swift)
+- [20. Valid Parentheses](./Leetcode/20_ValidParentheses.swift)
 <!-- TOC end -->
 
 ## How to Use
