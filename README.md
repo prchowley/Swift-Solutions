@@ -11,6 +11,7 @@ I will update this when ever I will get some time.
 - [2. AddTwoNumbers](Leetcode/2_AddTwoNumbers.swift)
 - [4. MedianOfTwoSortedArrays](Leetcode/4_MedianOfTwoSortedArrays.swift)
 - [7. ReverseInteger](Leetcode/7_ReverseInteger.swift)
+- [9. PalindromeNumber](Leetcode/9_PalindromeNumber.swift)
 <!-- TOC end -->
 
 ## How to Use
