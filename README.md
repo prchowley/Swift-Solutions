@@ -26,6 +26,7 @@ I will update this when ever I will get some time.
 - [67. Add Binary](./Leetcode/67_AddBinary.swift)
 - [69. Sqrt(x)](./Leetcode/69_Sqrt(x).swift)
 - [70. Climbing Stairs](./Leetcode/70_ClimbingStairs.swift)
+- [1530. Number Of Good Leaf Nodes Pairs](./Leetcode/1530_NumberOfGoodLeafNodesPairs.swift)
 <!-- TOC end -->
 
 ## How to Use
