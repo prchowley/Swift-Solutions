@@ -9,6 +9,7 @@ I will update this when ever I will get some time.
 <!-- TOC start -->
 - [1. Two Sum](./Leetcode/1_TwoSum.swift)
 - [2. Add Two Numbers](./Leetcode/2_AddTwoNumbers.swift)
+- [3. Longest Substring Without Repeating Characters](./Leetcode/3_LongestSubstringWithoutRepeatingCharacters.swift)
 - [4. Median Of Two Sorted Arrays](./Leetcode/4_MedianOfTwoSortedArrays.swift)
 - [7. Reverse Integer](./Leetcode/7_ReverseInteger.swift)
 - [9. Palindrome Number](./Leetcode/9_PalindromeNumber.swift)
