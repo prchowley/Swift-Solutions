@@ -19,7 +19,7 @@ I will update this when ever I will get some time.
 - [21. Merge Two Sorted Lists](./Leetcode/21_MergeTwoSortedLists.swift)
 - [26. Remove Duplicates From Sorted Array](./Leetcode/26_RemoveDuplicatesFromSortedArray.swift)
 - [27. Remove Element](./Leetcode/27_RemoveElement.swift)
-- [28. Find The Index Of The First Occurrence In AString](./Leetcode/28_FindTheIndexOfTheFirstOccurrenceInAString.swift)
+- [28. Find The Index Of The First Occurrence In A String](./Leetcode/28_FindTheIndexOfTheFirstOccurrenceInAString.swift)
 - [35. Search Insert Position](./Leetcode/35_SearchInsertPosition.swift)
 - [49. Group Anagrams](./Leetcode/49_GroupAnagrams.swift)
 - [58. Length Of Last Word](./Leetcode/58_LengthOfLastWord.swift)
@@ -27,8 +27,9 @@ I will update this when ever I will get some time.
 - [67. Add Binary](./Leetcode/67_AddBinary.swift)
 - [69. Sqrt(x)](./Leetcode/69_Sqrt(x).swift)
 - [70. Climbing Stairs](./Leetcode/70_ClimbingStairs.swift)
+- [1380. Lucky Numbers in a matrix](./Leetcode/1380_LuckyNumbersInAMatrix.swift)
 - [1530. Number Of Good Leaf Nodes Pairs](./Leetcode/1530_NumberOfGoodLeafNodesPairs.swift)
-- [3074. Apple Redistribution into Boxes](./Leetcode/3074_AppleRedistributionIntoBoxes.swift)
+- [3074. Apple Redistribution Into Boxes](./Leetcode/3074_AppleRedistributionIntoBoxes.swift)
 <!-- TOC end -->
 
 ## How to Use
