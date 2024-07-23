@@ -1,6 +1,6 @@
 class Solution {
     func frequencySort(_ nums: [Int]) -> [Int] {
-                // Step 1: Count the frequency of each number
+        // Step 1: Count the frequency of each number
         var frequencyDictionary: [Int: Int] = [:]
         for number in nums {
             // Increase the count of the current number in the frequency dictionary
