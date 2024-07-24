@@ -30,6 +30,7 @@ I will update this when ever I will get some time.
 - [1380. Lucky Numbers In AMatrix](./Leetcode/1380_LuckyNumbersInAMatrix.swift)
 - [1530. Number Of Good Leaf Nodes Pairs](./Leetcode/1530_NumberOfGoodLeafNodesPairs.swift)
 - [1636. Sort Array By Increasing Frequency](./Leetcode/1636_SortArrayByIncreasingFrequency.swift)
+- [2191. Sort The Jumbled Numbers](./Leetcode/2191_SortTheJumbledNumbers.swift)
 - [2418. Sort The People](./Leetcode/2418_SortThePeople.swift)
 - [3074. Apple Redistribution Into Boxes](./Leetcode/3074_AppleRedistributionIntoBoxes.swift)
 <!-- TOC end -->
