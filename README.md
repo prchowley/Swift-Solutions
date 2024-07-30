@@ -30,6 +30,7 @@ I will update this when ever I will get some time.
 - [912. Sort An Array](./Leetcode/912_SortAnArray.swift)
 - [1334. Find The City With The Smallest Number Of Neighbors At AThreshold Distance](./Leetcode/1334_FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.swift)
 - [1380. Lucky Numbers In AMatrix](./Leetcode/1380_LuckyNumbersInAMatrix.swift)
+- [1395. Count Number Of Teams](./Leetcode/1395_CountNumberOfTeams.swift)
 - [1530. Number Of Good Leaf Nodes Pairs](./Leetcode/1530_NumberOfGoodLeafNodesPairs.swift)
 - [1636. Sort Array By Increasing Frequency](./Leetcode/1636_SortArrayByIncreasingFrequency.swift)
 - [2191. Sort The Jumbled Numbers](./Leetcode/2191_SortTheJumbledNumbers.swift)
