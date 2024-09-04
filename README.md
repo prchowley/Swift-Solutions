@@ -32,6 +32,7 @@ I will update this when ever I will get some time.
 - [592. Fraction Addition And Subtraction](./Leetcode/592_FractionAdditionAndSubtraction.swift)
 - [650. 2Keys Problem](./Leetcode/650_2KeysProblem.swift)
 - [664. Strange Printer](./Leetcode/664_StrangePrinter.swift)
+- [874. Walking Robot Simulation](./Leetcode/874_WalkingRobotSimulation.swift)
 - [912. Sort An Array](./Leetcode/912_SortAnArray.swift)
 - [1140. Stone Game II](./Leetcode/1140_StoneGameII.swift)
 - [1334. Find The City With The Smallest Number Of Neighbors At AThreshold Distance](./Leetcode/1334_FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.swift)
