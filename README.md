@@ -43,6 +43,7 @@ I will update this when ever I will get some time.
 - [1636. Sort Array By Increasing Frequency](./Leetcode/1636_SortArrayByIncreasingFrequency.swift)
 - [1894. Find The Student That Will Replace The Chalk](./Leetcode/1894_FindTheStudentThatWillReplaceTheChalk.swift)
 - [1945. Sum Of Digits Of String After Convert](./Leetcode/1945_SumOfDigitsOfStringAfterConvert.swift)
+- [2028. Find Missing Observations](./Leetcode/2028_FindMissingObservations.swift)
 - [2191. Sort The Jumbled Numbers](./Leetcode/2191_SortTheJumbledNumbers.swift)
 - [2418. Sort The People](./Leetcode/2418_SortThePeople.swift)
 - [2678. Number Of Senior Citizens](./Leetcode/2678_NumberOfSeniorCitizens.swift)
